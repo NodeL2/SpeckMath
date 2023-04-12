@@ -1,0 +1,25 @@
+{
+    "name": "speckmath",
+    "version": "1.0.0",
+    "description": "Plane point math calculation & other horror stories",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://git@github.com/NodeL2/SpeckMath.git"
+    },
+    "keywords": [
+        "distance",
+        "point",
+        "math",
+        "pi"
+    ],
+    "author": "Dennis Koluris",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/NodeL2/SpeckMath/issues"
+    },
+    "homepage": "https://github.com/NodeL2/SpeckMath#readme"
+}
